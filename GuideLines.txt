@@ -1,0 +1,6 @@
+Problem : LazyInitializationException in SpringBoot JPA
+solution : https://www.youtube.com/watch?v=XbT5oRJFp2E
+4 ways : 1) Eager Loading
+         2) JPQL
+         3) @NamedEntityGraph
+         3) Transactional (put in service layer)
